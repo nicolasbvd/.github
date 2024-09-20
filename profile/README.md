@@ -71,6 +71,7 @@ It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
 
+- Urs Behrmann [@ursbehrmann](https://github.com/UBehrmann)
 - Gonçalo Carvalheiro Heleno [@lentidas](https://github.com/lentidas)
 - Guillaume Fragnière [@GFragniere](https://github.com/GFragniere)
 - Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
