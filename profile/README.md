@@ -73,3 +73,4 @@ and answering your questions.
 
 - Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
 - Dylan Langumier [@Dylan-Langumier](https://github.com/Dylan-Langumier)
+- Raphaël Perret [@rp2709](https://github.com/rp2709)
